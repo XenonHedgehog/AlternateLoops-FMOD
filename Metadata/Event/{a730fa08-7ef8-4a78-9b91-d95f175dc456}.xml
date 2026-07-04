@@ -264,7 +264,7 @@
 			<value>0</value>
 		</property>
 		<property name="length">
-			<value>14.4</value>
+			<value>19.199999999999999</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{1f61e5f8-f736-4935-93a5-29cb1096dc88}</destination>
@@ -287,7 +287,7 @@
 			<value>9.5999999999999996</value>
 		</property>
 		<property name="length">
-			<value>4.8000000000000007</value>
+			<value>9.5999999999999996</value>
 		</property>
 		<property name="name">
 			<value>Cutscene</value>
@@ -301,7 +301,7 @@
 	</object>
 	<object class="NamedMarker" id="{cfd1606f-d256-4a42-92b2-a6a694164e50}">
 		<property name="position">
-			<value>14.4</value>
+			<value>19.199999999999999</value>
 		</property>
 		<property name="name">
 			<value>3 N</value>
@@ -315,10 +315,10 @@
 	</object>
 	<object class="TransitionRegion" id="{d953350b-34e5-422d-85a2-bb1f8c2fa1a3}">
 		<property name="position">
-			<value>14.4</value>
+			<value>19.199999999999999</value>
 		</property>
 		<property name="length">
-			<value>163.19157632462074</value>
+			<value>158.39157632462076</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{1f61e5f8-f736-4935-93a5-29cb1096dc88}</destination>

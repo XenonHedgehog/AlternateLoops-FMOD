@@ -526,7 +526,7 @@
 			<value>1</value>
 		</property>
 		<property name="curveShape">
-			<value>0.25471893</value>
+			<value>1</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{842cff08-3b9d-4834-a105-958e5dd8d5d9}">
