@@ -162,13 +162,10 @@
 	</object>
 	<object class="SingleSound" id="{5ea0ad38-5bce-4b00-9f9c-5756132293b9}">
 		<property name="start">
-			<value>150.85714583333333</value>
+			<value>149.63240444044726</value>
 		</property>
 		<property name="length">
-			<value>131.13615233851377</value>
-		</property>
-		<property name="timelockedOffset">
-			<value>7.0456601614862393</value>
+			<value>138.18181250000001</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{26d46c66-bddc-40dd-96d2-77e9ffe6005d}</destination>
@@ -221,7 +218,7 @@
 	</object>
 	<object class="NamedMarker" id="{e5a0ab57-4722-4b5e-82b4-d656b6731671}">
 		<property name="position">
-			<value>150.85714583333333</value>
+			<value>149.63240444044726</value>
 		</property>
 		<property name="name">
 			<value>Doise</value>
@@ -256,7 +253,7 @@
 	</object>
 	<object class="LoopRegion" id="{6b123e26-57b5-40ec-962f-17b392ec9993}">
 		<property name="position">
-			<value>150.85714583333333</value>
+			<value>156.67785416666666</value>
 		</property>
 		<property name="length">
 			<value>131.13615233851374</value>
@@ -270,7 +267,7 @@
 	</object>
 	<object class="TempoMarker" id="{7007ed19-e906-4b3c-8527-64ca4bff444f}">
 		<property name="position">
-			<value>150.85714583333333</value>
+			<value>149.63240444044726</value>
 		</property>
 		<property name="tempo">
 			<value>132</value>
