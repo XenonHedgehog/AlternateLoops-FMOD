@@ -1,6 +1,6 @@
-# Pizza Tower Alt. Soundtrack
-This is a W.I.P FSPRO that replaces every soundtrack to a different one if it fits.
-Currently, this FSPRO changes the loops and adds extensions from some songs.
+# Pizza Tower Alternate Loops
+This is a W.I.P FSPRO changes the loops and adds extensions from some songs.
 
-# Credits
-Idea taken from Penny, creator of Soundigo. I originally wanna do the same because of her, now-deleted youtube channel, now-deleted PT Alt. Soundtrack video.
+
+
+IF YOU WANT [ALTERNATE SOUNDTRACK], THEN HEAD OVER TO www.GITHUB.COM/XenonHedgehog/Alternate-Soundtrack-FSPRO !!!!
